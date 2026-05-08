@@ -1,36 +1,14 @@
-# Automatic Writing - Source Documentation
+# Sources & References — Automatic Writing
 
-## Overview
+Bibliography compiled from `api.json`. To add a source, edit `api.json` and regenerate.
 
-This document provides comprehensive source documentation for Automatic Writing. The entry includes 61+ sources from academic, historical, cultural, and research contexts.
+## Books
 
-## Source Categories
+- Théodore Flournoy. (1900). *From India to the Planet Mars: A Study of a Case of Somnambulism*. Harper and Brothers
 
-### Primary Sources
-- Original texts and historical documents
-- Religious texts and manuscripts
-- Cultural repositories and oral traditions
+## Websites
 
-### Academic Sources
-- Peer-reviewed research
-- University press publications
-- Scholarly monographs
-
-### Cultural Resources
-- Indigenous knowledge keepers
-- Cultural organizations
-- Community documentation
-
-### Contemporary Research
-- Modern investigations
-- Digital archives
-- Ongoing scholarly work
-
-## Full Bibliography
-
-[Detailed sources listed in main README.md file]
+- *Automatic writing*. <https://en.wikipedia.org/wiki/Automatic_writing>
 
 ---
-
-*Last Updated: 2026-01-14*  
-*Version: 1.0.0*
+_Auto-generated from `api.json`._
